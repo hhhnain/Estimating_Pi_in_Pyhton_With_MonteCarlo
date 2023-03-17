@@ -13,3 +13,5 @@ to get the area ratio, we generate random x and y points between 1 and -1 and pl
 Then by counting the total points inside the circle we can divide it by the total points to get the area ratio, then its simple, multiply by 4 to get pi
 
 To check if a point falls inside a circle, we do a simple check by using the circle equation of (x^2 + y^2) <= 1
+
+Code in Main.py
